@@ -1,0 +1,8 @@
+{
+  "name": "wy118/plugin",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6.20",
+    "composer/installers": "v1.0.6"
+  }
+}
